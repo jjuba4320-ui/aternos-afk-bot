@@ -10,7 +10,8 @@ function createBot() {
   const bot = mineflayer.createBot({
   host: 'JJUBAElsfah-z2mI.aternos.me',
     port: 11351,
-    username: 'AFK_Guard_Bot'
+    username: 'AFK_Guard_Bot',
+    version: '1.20.4'
   });
 
   bot.on('spawn', () => {
