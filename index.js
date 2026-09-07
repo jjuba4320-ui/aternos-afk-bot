@@ -11,7 +11,7 @@ function createBot() {
     host: 'JJUBAElsfah-z2ml.aternos.me',
     port: 11351, // تأكد أن هذا هو رقم الـ Port المكتوب في زر Connect بـ Aternos
     username: 'AFK_Guard_Bot',
-    version: '1.20.4',
+    version: '1.21.4',
     checkTimeoutInterval: 60 * 1000
   });
 
