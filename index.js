@@ -8,7 +8,7 @@ app.listen(process.env.PORT || 3000, () => console.log('Web server running'));
 
 function createBot() {
   const bot = mineflayer.createBot({
-  host: 'JJUBAElsfah-z2mI.aternos.me',
+  host: 'JJUBAElsfah-z2ml.aternos.me',
     port: 11351,
     username: 'AFK_Guard_Bot',
     version: '1.20.4'
